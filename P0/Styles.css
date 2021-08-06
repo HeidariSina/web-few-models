@@ -1,0 +1,16 @@
+h1 {
+    color: slateblue;
+    font-style: inherit;
+}
+.box1 {
+    background-color: rgb(0, 0, 0);
+    color: hotpink;
+    height: 250px;
+    width: 500px;
+}
+.box2 {
+    background-color: rgb(182, 16, 16);
+    color: hotpink;
+    height: 300px;
+    width: 200px;
+}
